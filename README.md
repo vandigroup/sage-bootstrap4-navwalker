@@ -1,6 +1,6 @@
-# Sage 9 friendly Bootstrap 4 Navwalker
+# Sage 9 friendly Bootstrap 5 Navwalker
 
-Sets up a Bootstrap 4 Navwalker for Sage 9-based themes.
+Sets up a Bootstrap 5 Navwalker for Sage 9-based themes.
 
 To install, run the following in your Sage9-based theme directory:
 ```bash
